@@ -209,4 +209,67 @@
                         echo $outputanswer;
                         }
                     }
+                    // declaration of conditionals
+                if(isset($_POST['submit'])){
+                    $score = 0;
+                    if($_POST['question1'] == 'blue_whale' ){
+                    $score++;
+                    }
+                    if($_POST['question2'] == 'diabetes' ){
+                    $score++;
+                    }
+                    if($_POST['question3'] == 'New_york' ){
+                    $score++;
+                    }
+                    if($_POST['question4'] == 'electronic' ){
+                    $score++;
+                    }
+                    if($_POST['question5'] == '71%'){
+                    $score++;
+                    }
+                    if($_POST['question6'] == 'amazon'){
+                    $score++;
+                    }
+                    if($_POST['question7'] == '28-32'){
+                    $score++;
+                    }
+                    if($_POST['question8'] == 'Charles Darwin'){
+                    $score++;
+                    }
+                    if($_POST['question9'] == 'Shark'){
+                    $score++;
+                    }
+                    if($_POST['question10'] == '60'){
+                    $score++;
+                    }
+                    if($_POST['question11'] == 'The Epic of Gilgamesh' ){
+                    $score++;
+                    }
+                    if($_POST['question12'] == 'New Zealand' ){
+                    $score++;
+                    }
+                    if($_POST['question13'] == 'Poland' ){
+                    $score++;
+                    }
+                    if($_POST['question14'] == 'clearing of lands for agricultural use' ){
+                    $score++;
+                    }
+                    if($_POST['question15'] == '9.3 billion'){
+                    $score++;
+                    }
+                    if($_POST['question16'] == 'hour'){
+                    $score++;
+                    }
+                    if($_POST['question17'] == '6.8 billion'){
+                    $score++;
+                    }
+                    if($_POST['question18'] == '4.54 billion years'){
+                    $score++;
+                    }
+                    if($_POST['question19'] == 'Earths orbit around the sun'){
+                    $score++;
+                    }
+                    if($_POST['question20'] == 'oblate spheroid'){
+                    $score++;
+                    }
             ?>

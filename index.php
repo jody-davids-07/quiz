@@ -15,3 +15,6 @@
             <section>
             <h1>How much do you know about our earth?</h1>
             </section>
+            <?php
+             
+            ?>

@@ -203,4 +203,10 @@
                     for($i = 0; $i < count($quiz); ++$i){
                     $outputquestion = "<h3>".$number[$i].')'.$quiz[$i]['question']."</h3>";
                     echo $outputquestion; 
+                    foreach($quiz[$i]['answer'] as $value ){
+                        $outputanswer =  "<input required type=\"radio\" name=".$answerName[$i]."
+                        value=".$value.">"."<span>$value</span>";
+                        echo $outputanswer;
+                        }
+                    }
             ?>

@@ -106,5 +106,95 @@
                     '60',
                     '128'
                 ]
-                ]; 
+                ];
+                $quiz[] = [
+                    'question' => 'what is the oldest known story in the world?',
+                    'answer' => [
+                        'The Bible',
+                        'The Histories',
+                        'The Epic of Gilgamesh',
+                        'The Odyssey'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'what was the first country to give women the vote in 1893?',
+                    'answer' => [
+                        'America',
+                        'Australia',
+                        'New Zealand',
+                        'Iceland'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'which country did Germany invade on the 1st of September 1939?',
+                    'answer' => [
+                        'France',
+                        'Czechoslovakia',
+                        'Poland',
+                        'Finland'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'The number one cause of tropical deforestation worldwide is:',
+                    'answer' => [
+                        'commercial logging',
+                        'wildfire',
+                        'clearing of lands for agricultural use',
+                        'gathering of firewood'
+                        ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'The estimated world population in the year 2050 is about:',
+                    'answer' => [
+                        '3.4 billion',
+                        '6.8 billion',
+                        '9.3 billion',
+                        '11.5 billion'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'The population of the world is currently increasing at a rate of 8,600 people per _______.' ,
+                    'answer' => [
+                        'month',
+                        'week',
+                        'hour',
+                        'year'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'The population of the world in 1950 was about 2.6 billion. The world population is currently about:' ,
+                    'answer' => [
+                        '3.4 billion',
+                        '6.8 billion',
+                        '9.3 billion',
+                        '11.5 billion'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'roughly how old is earth?' ,
+                    'answer' => [
+                        '4.54 million years',
+                        '4.54 billion years',
+                        '6,000 years',
+                        'older than the sun'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => '67,000 mph (107,826 km/h) represents what speed?' ,
+                    'answer' => [
+                        'Earths orbit around the sun',
+                        'Earths rotation about its axis',
+                        'Earths movement through the milky way',
+                        'The moons orbit around Earth'
+                    ]
+                    ];
+                    $quiz[] = [
+                    'question' => 'earth is?' ,
+                    'answer' => [
+                        'flat',
+                        'spherical',
+                        'oblate spheroid',
+                        'none of the above'
+                    ]
+                    ]; 
             ?>

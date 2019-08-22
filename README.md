@@ -1,8 +1,13 @@
 # Project Title
-One Paragraph of project description goes here
+This project is a quiz made using HTML, CSS and php. It allows users to interact with back-end databases and allow the devs to access answers and process it and output a score to the user.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Ensure that you've installed WAMPSERVER, Github, Google Chrome and Visual studio code to your local machine. 
+Get the live link from the developer's github account.
+Download and clone the project into the www folder on your WAMSERVER host.
+Access and run the live project in your browser:
+-enter "http://local/foldername"
+
 
 ### Prerequisites
 What things you need to install the software and how to install them

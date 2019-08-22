@@ -2,16 +2,22 @@
 This project is a quiz made using HTML, CSS and php. It allows users to interact with back-end databases and allow the devs to access answers and process it and output a score to the user.
 
 ## Getting Started
-Ensure that you've installed WAMPSERVER, Github, Google Chrome and Visual studio code to your local machine. 
-Get the live link from the developer's github account.
+• Ensure that you've installed WAMPSERVER, Github, Google Chrome and Visual studio code to your local machine.
+
+• Get the live link from the developer's github account.
 Download and clone the project into the www folder on your WAMSERVER host.
-Access and run the live project in your browser:
+
+• Save the file
+
+• Access and run the live project in your browser:
 -enter "http://local/foldername"
 
-
 ### Prerequisites
-What things you need to install the software and how to install them
-Give examples
+• Visual Studio Code (url: https://code.visualstudio.com/download)
+
+• The latest version of Google Chrome (url: https://chrome.en.softonic.com/download)
+
+• A github account (url: https://desktop.github.com/)
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running
@@ -36,9 +42,11 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+• Visual Studio Code (url: https://code.visualstudio.com/download)
+
+• The latest version of Google Chrome (url: https://chrome.en.softonic.com/download)
+
+• A github account (url: https://desktop.github.com/)
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.

@@ -272,4 +272,12 @@
                     if($_POST['question20'] == 'oblate spheroid'){
                     $score++;
                     }
+                    // echo score total to page
+                    echo "<p>"."Your score is ".$score. " / 20"."</p>";
+                    if($score === 20){
+                    echo "well done";
+                    } else if ($score < 20){
+                    echo "sorry loser, try again";   
+                    }
+                    } 
             ?>
